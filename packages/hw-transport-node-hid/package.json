@@ -33,8 +33,8 @@
     "@ledgerhq/hw-transport-node-hid-noevents": "^6.11.0",
     "@ledgerhq/logs": "^6.10.0",
     "lodash": "^4.17.21",
-    "node-hid": "2.1.1",
-    "usb": "^1.7.0"
+    "node-hid": "2.1.2",
+    "usb": "^1.8.0"
   },
   "scripts": {
     "clean": "bash ../../script/clean.sh",
