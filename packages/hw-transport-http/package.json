@@ -31,7 +31,7 @@
     "@ledgerhq/hw-transport": "^6.11.0",
     "@ledgerhq/logs": "^6.10.0",
     "axios": "^0.23.0",
-    "ws": "7"
+    "ws": "8.17.1"
   },
   "scripts": {
     "clean": "bash ../../script/clean.sh",
