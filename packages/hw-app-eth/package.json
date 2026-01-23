@@ -33,7 +33,7 @@
     "@ledgerhq/logs": "^6.10.0",
     "axios": "^0.23.0",
     "bignumber.js": "^9.0.1",
-    "ethers": "^5.5.1"
+    "ethers": "^6.0.0"
   },
   "scripts": {
     "clean": "bash ../../script/clean.sh",
